@@ -1,0 +1,8 @@
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.MvcApplicationPartsAssemblyInfo.cache

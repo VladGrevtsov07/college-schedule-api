@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CollegeSchedule")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b888e512d6a6c914b73b4d1b4b0605b11a74853")]
-[assembly: System.Reflection.AssemblyProductAttribute("CollegeSchedule")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CollegeSchedule")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Swashbuckle.AspNetCore.SwaggerGen")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
