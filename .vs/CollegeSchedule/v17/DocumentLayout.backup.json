@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\CollegeSchedule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\collegeschedule\\collegeschedule\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\collegeschedule\\collegeschedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\collegeschedule\\collegeschedule\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3934EACA-A58E-45EC-AC54-76B17295D96A}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\collegeschedule\\collegeschedule\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\CollegeSchedule\\CollegeSchedule\\.env",
               "RelativeDocumentMoniker": "CollegeSchedule\\.env",
@@ -195,13 +195,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Program.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Program.cs",
-              "RelativeToolTip": "CollegeSchedule\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\source\\repos\\CollegeSchedule\\CollegeSchedule\\Program.cs*",
+              "RelativeToolTip": "CollegeSchedule\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T13:08:35.916Z",
               "EditorCaption": ""

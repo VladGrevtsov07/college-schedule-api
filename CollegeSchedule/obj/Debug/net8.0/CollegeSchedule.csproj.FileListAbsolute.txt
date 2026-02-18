@@ -113,3 +113,4 @@ C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Deb
 C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.pdb
 C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.genruntimeconfig.cache
 C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\ref\CollegeSchedule.dll
+C:\Users\Владислав\source\repos\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.sourcelink.json
