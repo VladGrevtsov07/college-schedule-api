@@ -27,6 +27,14 @@ namespace CollegeSchedule.Services
             return BuildScheduleDto(startDate, endDate, schedules);
         }
 
+        public async Task<List<string>> GetAllGroups()
+        {
+            return await _db.StudentGroups
+                .OrderBy(g => g.GroupName)
+                .Select(g => g.GroupName)
+                .ToListAsync();
+        }
+
         private static void ValidateDates(DateTime start, DateTime end)
         {
             if (start > end)
@@ -100,7 +108,7 @@ namespace CollegeSchedule.Services
             var lessonDto = new LessonDto
             {
                 LessonNumber = lessonGroup.Key.LessonNumber,
-                Time = $"{lessonGroup.Key.TimeStart:hh\\:mm}-{lessonGroup.Key.TimeEnd:hh\\:mm}",
+                Time = $"{lessonGroup.Key.TimeStart:HH\\:mm}-{lessonGroup.Key.TimeEnd:HH\\:mm}",
                 GroupParts = new Dictionary<LessonGroupPart, LessonPartDto?>()
             };
 
